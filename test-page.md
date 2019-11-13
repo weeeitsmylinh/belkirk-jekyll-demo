@@ -3,7 +3,7 @@ heading: Test Page 1
 sub_heading: Testing Engineering and Health Sciences
 layout: home
 title: Test Page
-banner_image: ''
+banner_image: "/uploads/2019/11/13/forest-sky.jpg"
 hero_button:
   text: ''
   href: ''
