@@ -9,8 +9,8 @@ hero_button:
   href: ''
 textline: words
 services: []
-show_news: false
+show_news: true
 partners: []
-show_staff: false
+show_staff: true
 
 ---
